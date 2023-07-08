@@ -12,3 +12,9 @@ this algorithm empowers insurance professionals to improve their risk modeling a
 https://github.com/khanaalmeen/Insurance_Regression/blob/main/datasets_insurance.csv
 
 ## Libraries Used
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+
+## Algorithms Used
