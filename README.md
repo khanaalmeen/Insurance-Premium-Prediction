@@ -17,4 +17,4 @@ https://github.com/khanaalmeen/Insurance_Regression/blob/main/datasets_insurance
 - seaborn
 - scikit-learn
 
-## Algorithms Used
+
